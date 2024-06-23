@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Digital Clock",
-      "description": "A sleek and modern digital clock application displaying both digital and analog clock interfaces.",
+      "description": "Developed a responsive sleek and modern digital clock application displaying both digital and analog clock interfaces using React.js , JavaScript , Css and Scss.",
       "image": "/clock.avif",
       "demo": "https://digital-analog-clock-five.vercel.app/",
       "github": "https://github.com/r-kundan/digitalAndAnalogClock.git"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Gym Webpage",
-      "description": "A dynamic gym webpage providing information about various workout routines, trainers, and membership plans.",
+      "description": "Developed a responsive gym web page using React.js , Tailwind CSS , and JavaScript , with Animate On Scroll Library.",
       "image": "/gym.avif",
       "demo": "https://gym-nine-flame.vercel.app/",
       "github": "https://github.com/r-kundan/gym.git"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "Quote Machine",
-      "description": "A random quote machine that generates and displays motivational quotes to inspire users.",
+      "description": "A random quote machine that generates and displays motivational quotes to inspire users Developed in HTML , CSS and JavaScript.",
       "image": "/Quote.avif",
       "demo": "https://random-quote-machine-omega-five.vercel.app/",
       "github": "https://github.com/r-kundan/random-quote-machine.git"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "title": "Pizza Delivery Application",
-      "description": "A fully-functional pizza delivery application that allows users to order and track their pizzas.",
+      "description": "A dyanmic pizza delivery application built with React.js, Tailwind CSS, and JavaScript.",
       "image": "/pizza.png",
       "demo": "https://pizza-delivery-application-beta.vercel.app/",
       "github": "https://github.com/r-kundan/pizza-delivery-application.git"
