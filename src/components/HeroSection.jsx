@@ -7,18 +7,18 @@ import { Vortex } from './ui/vortex'
 
 function HeroSection() {
   return (
-      
-      <div className='h-auto rounded-md flex flex-col justify-center items-center w-full md:h-[40rem] relative overflow-hidden mx-auto py-10 md:py-0'>
+    // <div className=''>
+       <div className='md:min-h-[900px] h-[600px] rounded-md flex flex-col justify-center items-center w-full  relative overflow-hidden py-6 md:py-0'>
 {/* <Spotlight
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="white"
       /> */}
         <Vortex
         backgroundColor="black"
-        className=" flex flex-col justify-evenly md:flex-row items-center w-full h-[500px] sm:h-[800px]"
+        className=" flex flex-col justify-center items-center md:flex-row items-center w-full h-[600px] md:h-[900px]"
       >
        
-          <div className= " flex flex-col justify-evenly md:flex-row items-center w-fit h-full  relative z-10 text-center p-2 md:p-8 m-4 md:m-20 bg-base backdrop-blur-sm gap-40" >
+          <div className= " flex flex-col justify-evenly md:flex-row items-center w-fit h-full  relative z-10 text-center p-2  md:p-8 m-4 md:m-20 bg-base backdrop-blur-sm gap-40" >
           <div className='w-[400px] h-full hidden md:block'>
           <img src="/img.png" alt="" className='w-full object-contain h-full ' />
         </div>

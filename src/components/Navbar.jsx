@@ -11,7 +11,7 @@ function Navbar() {
   return (
     <div
       className={cn(
-        "fixed top-10 inset-x-0 max-w-2xl mx-auto  z-50 bg-glasscolor backdrop-blur-lg rounded-full"
+        "sticky top-10 inset-x-0 max-w-2xl mx-auto mb-24 w-full z-50 bg-glasscolor backdrop-blur-lg rounded-full"
       )}
     >
       <Menu setActive={setActive}>
@@ -20,6 +20,13 @@ function Navbar() {
             setActive={setActive}
             active={active}
             item="Home"
+          ></MenuItem>
+        </Link>
+        <Link href={"/education"}>
+          <MenuItem
+            setActive={setActive}
+            active={active}
+            item="Education"
           ></MenuItem>
         </Link>
         <Link href={"/skills"}>

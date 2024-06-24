@@ -28,7 +28,7 @@ const config: Config = {
   
     extend: {
       boxShadow:{
-        lg:" 0px 0px 8px 1px cyan"
+        lg:" 0px 0px 8px 1px #8377d1",
       },
       colors: {
         primary: "#F27704",
