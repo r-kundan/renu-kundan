@@ -1,18 +1,11 @@
 import React from 'react'
 import Link from 'next/link'
-// import { Button } from "./ui/moving-border";
-// import { Spotlight } from './ui/Spotlight';
-import {Spotlight} from './ui/Spotlight'
 import { Vortex } from './ui/vortex'
 
 function HeroSection() {
   return (
-    // <div className=''>
        <div className='md:min-h-[900px] h-[600px] rounded-md flex flex-col justify-center items-center w-full  relative overflow-hidden py-6 md:py-0'>
-{/* <Spotlight
-        className="-top-40 left-0 md:left-60 md:-top-20"
-        fill="white"
-      /> */}
+
         <Vortex
         backgroundColor="black"
         className=" flex flex-col justify-center items-center md:flex-row items-center w-full h-[600px] md:h-[900px]"
