@@ -27,6 +27,9 @@ const config: Config = {
   theme: {
   
     extend: {
+      boxShadow:{
+        lg:" 0px 0px 8px 1px cyan"
+      },
       colors: {
         primary: "#F27704",
         glasscolor: "rgba(28, 28, 28, 0.2)", // Light glassy color
