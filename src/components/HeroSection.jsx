@@ -23,7 +23,7 @@ function HeroSection() {
         
         <p
             className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto"
-            > I focus on creating intuitive, responsive, and user-friendly interfaces that enhance user experience across various devices and platforms. I am proficient in HTML, CSS, and JavaScript, and have hands-on experience with modern frameworks such as React.js.</p>
+            > I focus on creating intuitive, responsive, and user-friendly interfaces that enhance user experience across various devices and platforms. I am proficient in HTML, CSS, and JavaScript, and have hands-on experience with modern frameworks such as React.js & Next.js.</p>
             </div>
         </div>
         </Vortex>

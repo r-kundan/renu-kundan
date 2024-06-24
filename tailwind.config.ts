@@ -37,7 +37,6 @@ const config: Config = {
         secondary: "rgba(156 ,163 ,175, 0.5)",
       },
       animation: {
-        spotlight: "spotlight 2s ease .75s 1 forwards",
         scroll:
           "scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite",
           aurora: "aurora 60s linear infinite",
@@ -57,16 +56,7 @@ const config: Config = {
           },
         },
 
-        spotlight: {
-          "0%": {
-            opacity: "0",
-            transform: "translate(-72%, -62%) scale(0.5)",
-          },
-          "100%": {
-            opacity: "1",
-            transform: "translate(-50%,-40%) scale(1)",
-          },
-        },
+        
       },
 
       backgroundImage: {
