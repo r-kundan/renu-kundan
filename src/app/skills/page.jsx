@@ -20,6 +20,7 @@ function page() {
         
    <div className="flex items-center justify-center flex-wrap gap-10">
    <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">JavaScript</p>
+   <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">TypeScript</p>
    <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">React js</p>
    <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">Next js</p>
       <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">HTML</p>
