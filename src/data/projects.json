@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Music Webpage",
-      "description":"Developed a responsive music Web page using Next.js, Tailwind CSS, and TypeScript, with Aceternity UI for a modern interface.",
+      "description": "Developed a responsive music Web page using Next.js, Tailwind CSS, and TypeScript, with Aceternity UI for a modern interface.",
       "image": "/banner.jpg",
       "demo": "https://music-swart-theta.vercel.app/",
       "github": "https://github.com/r-kundan/music.git"
@@ -31,7 +31,14 @@
       "image": "/Quote.avif",
       "demo": "https://random-quote-machine-omega-five.vercel.app/",
       "github": "https://github.com/r-kundan/random-quote-machine.git"
+    },
+    {
+      "id": 5,
+      "title": "Pizza Delivery Application",
+      "description": "A dyanmic pizza delivery application built with React.js, Tailwind CSS, and JavaScript.",
+      "image": "/pizza.png",
+      "demo": "https://pizza-delivery-application-beta.vercel.app/",
+      "github": "https://github.com/r-kundan/pizza-delivery-application.git"
     }
- 
   ]
 }
