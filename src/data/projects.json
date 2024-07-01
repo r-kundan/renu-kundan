@@ -31,14 +31,6 @@
       "image": "/Quote.avif",
       "demo": "https://random-quote-machine-omega-five.vercel.app/",
       "github": "https://github.com/r-kundan/random-quote-machine.git"
-    },
-    {
-      "id": 5,
-      "title": "Pizza Delivery Application",
-      "description": "A dyanmic pizza delivery application built with React.js, Tailwind CSS, and JavaScript.",
-      "image": "/pizza.png",
-      "demo": "https://pizza-delivery-application-beta.vercel.app/",
-      "github": "https://github.com/r-kundan/pizza-delivery-application.git"
     }
   ]
 }
