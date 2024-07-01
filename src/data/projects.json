@@ -31,6 +31,14 @@
       "image": "/Quote.avif",
       "demo": "https://random-quote-machine-omega-five.vercel.app/",
       "github": "https://github.com/r-kundan/random-quote-machine.git"
+    },
+    {
+      "id": 5,
+      "title": "To-DO Application",
+      "description": "A dyanmic To-DO application built with React.js, Tailwind CSS, React-redux and JavaScript.",
+      "image": "/todo.png",
+      "demo": "https://todo-app-beige-nine.vercel.app/",
+      "github": "https://github.com/r-kundan/todo-app.git"
     }
   ]
 }
