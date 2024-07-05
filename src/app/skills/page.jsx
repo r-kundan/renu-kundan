@@ -23,6 +23,8 @@ function page() {
    <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">TypeScript</p>
    <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">React js</p>
    <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">Next js</p>
+   <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">Redux</p>
+
       <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">HTML</p>
       <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">Tailwind Css</p>
       <p className="flex justify-center items-center shadow-lg rounded-full border-cyan text-3xl p-3">Bootstrap</p>
