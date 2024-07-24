@@ -4,11 +4,11 @@ import { Vortex } from './ui/vortex'
 
 function HeroSection() {
   return (
-       <div className='md:min-h-[900px] h-[600px] rounded-md flex flex-col justify-center items-center w-full  relative overflow-hidden py-6 md:py-0'>
+       <div className='md:min-h-[900px] h-[450px] rounded-md flex flex-col justify-center items-center w-full  relative overflow-hidden py-6 md:py-0'>
 
         <Vortex
         backgroundColor="black"
-        className=" flex flex-col justify-center items-center md:flex-row items-center w-full h-[600px] md:h-[900px]"
+        className=" flex flex-col justify-center md:flex-row items-center w-full h-[450px] md:h-[900px]"
       >
        
           <div className= " flex flex-col justify-evenly md:flex-row items-center w-fit h-full  relative z-10 text-center p-2  md:p-8 m-4 md:m-20 bg-base backdrop-blur-sm gap-40" >
