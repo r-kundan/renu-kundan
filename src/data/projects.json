@@ -39,6 +39,14 @@
       "image": "/todo.png",
       "demo": "https://todo-app-beige-nine.vercel.app/",
       "github": "https://github.com/r-kundan/todo-app.git"
+    },
+    {
+      "id": 6,
+      "title": "Pizza Delivery Application",
+      "description": "A dyanmic pizza delivery application built with React.js, Tailwind CSS, and JavaScript.",
+      "image": "/pizza.png",
+      "demo": "https://pizza-delivery-application-beta.vercel.app/",
+      "github": "https://github.com/r-kundan/pizza-delivery-application.git"
     }
   ]
 }

@@ -5,7 +5,7 @@ import { LampContainer } from "@/components/ui/lamp";
 
 function page() {
   return (
-    <div className="flex justify-center text-center w-full">
+    <div className="flex justify-center text-center w-full h-fit">
       <LampContainer>
         <motion.h1
           initial={{ opacity: 0.5, y: 100 }}
